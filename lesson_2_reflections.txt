@@ -18,3 +18,6 @@ out a branch
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is a single commit combining changes in latest commits in both branches compared to their common parent
 They are represented like this because they combine all changes in one file
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It saves a lot of time to combine commits and only refer to the user for conflicts
