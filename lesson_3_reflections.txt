@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+If I have other contributers to the project or have an online backup in case my PC crashes
