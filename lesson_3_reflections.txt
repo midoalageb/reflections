@@ -13,3 +13,7 @@ Clone: Clones a local or remote repo to my PC (local) repo (automatically create
 sync a remote repo locally on my PC
 Branch: Used to tag a commit with a name that can be used to test out new features or add named checkpoints for the
 project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This helps to discover conflicts if someone changes the content on GitHub for the same file I am working on while 
+I am offline
