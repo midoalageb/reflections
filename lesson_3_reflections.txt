@@ -5,3 +5,11 @@ Why might you want to always pull changes manually rather than having Git automa
 up-to-date with your remote repository?
 Because if a different contributer is working on the same project and commits a branch with the
 same name, I will get conflicts and have to check which commit to use
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: Clones a GitHub repo to another GitHub repo. Used when I don't have permission to edit in the initial repo
+or when I need to add my own version without removing credit to initial user
+Clone: Clones a local or remote repo to my PC (local) repo (automatically creates a remote). Used to be able edit and
+sync a remote repo locally on my PC
+Branch: Used to tag a commit with a name that can be used to test out new features or add named checkpoints for the
+project
