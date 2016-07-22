@@ -21,3 +21,8 @@ I am offline
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Using Emails. It is easier to use Git and GitHub as with just few commands, I can share my work, get feedback and 
 save my work
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It is better to make changes in a separate branch to be able to get the latest updates from other contributers to master 
+before committing changes and merging it with that version. Working on master directly is much simpler, but may create
+a lot of conflicts if the GitHub version has changed much
