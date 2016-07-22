@@ -17,3 +17,7 @@ project
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This helps to discover conflicts if someone changes the content on GitHub for the same file I am working on while 
 I am offline
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using Emails. It is easier to use Git and GitHub as with just few commands, I can share my work, get feedback and 
+save my work
